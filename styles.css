@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+}
+
+main {
+    padding: 1rem;
+    text-align: center;
+}
+
+#template-container {
+    margin-bottom: 1rem;
+}
+
+select, input, button {
+    padding: 0.5rem;
+    margin: 0.5rem;
+}
+
+#meme-image {
+    max-width: 100%;
+    height: auto;
+}
+
+#download-link {
+    display: inline-block;
+    margin-top: 1rem;
+}
